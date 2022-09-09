@@ -27,9 +27,8 @@ wsl --set-default-version 2<span>
 <h4>docker rmi name-image </h4> =>> delete image
 <h4>docker container prune </h4> =>> delete all of the container
 <h4>docker stop namecontainer </h4> =>> just stop container
-------------------------------------------------------
-<h4>docker command --helpe </h4> =>> get list of help that can use with this command
-
+<hr/>
+<h4>docker command --help </h4> =>> get list of help that can use with this command
 <h4>docker run --rm </h4> => run image and after that excit delete auto
 <h4>docker run -d -p 80:80 name-image </h4> =>> set port container to port system -- -d from debug container
 <h4>docker run  --name somename name-image </h4> =>> set name from container
