@@ -12,3 +12,7 @@
 <h5>3: Hypervisor enabled at Windows startup </h5>
 <span> Open an administrative console prompt.<br>Run bcdedit /set hypervisorlaunchtype auto.<br>Restart Windows.
 <h5>4: Download the Linux kernel update package from this Url:https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi</h5>
+<h5>5: Set WSL 2 as your default version </h5>
+<span>Open PowerShell and run this command to set WSL 2 as the default version when installing a new Linux distribution:<br>
+wsl --set-default-version 2<span>
+<h3>Install Docker Desktop on Windows I hope everything is ok</h3>
