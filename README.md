@@ -10,7 +10,5 @@
 
 <p>2: Virtualization enabled in the BIOS </p>
 <p>3: Hypervisor enabled at Windows startup </p>
-Open an administrative console prompt.
-Run bcdedit /set hypervisorlaunchtype auto.
-Restart Windows.
+<span> Open an administrative console prompt.<br>Run bcdedit /set hypervisorlaunchtype auto.<br>Restart Windows.
 <p>4: Download the Linux kernel update package from this Url:https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi</p>
