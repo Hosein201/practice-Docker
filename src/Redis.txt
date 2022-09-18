@@ -1,0 +1,10 @@
+docker pull redis
+
+docker run -d -p6379:6379 redis
+docker run -d --rm -p6379:6379 redis
+
+docker exec -it namecontainer redis-cli
+
+docker stop containerid
+
+docker rm containerid
