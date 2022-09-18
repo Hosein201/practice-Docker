@@ -20,6 +20,7 @@ wsl --set-default-version 2<span>
 <h3>Install Docker Desktop on Windows I hope everything is ok</h3>
 <hr/>
 <h3>Docker cmd</h3>
+pdf docker cheat sheet url: https://github.com/Hosein201/practice-Docker/blob/main/src/DockerCheatsheet.pdf
 <h4>docker images </h4> =>> get list of img
 <h4>docker pull name-image </h4> =>> just get image 
 <h4>docker run name-image </h4> =>> just run image if you does not have image docker goes to get image from docker hub
