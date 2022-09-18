@@ -8,3 +8,5 @@ docker exec -it namecontainer redis-cli
 docker stop containerid
 
 docker rm containerid
+
+exit
