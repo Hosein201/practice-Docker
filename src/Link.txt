@@ -2,3 +2,6 @@ Sql Server:
 https://hevodata.com/learn/sql-server-docker/#:~:text=Here%20are%20the%20steps%20you,Docker%20Image%20for%20SQL%20Server
 https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver16&pivots=cs1-cmd
 ===================================================
+RabbitMQ :
+https://codeburst.io/get-started-with-rabbitmq-on-docker-4428d7f6e46b
+===================================================
