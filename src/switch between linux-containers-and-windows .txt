@@ -1,0 +1,6 @@
+
+CMD  go to C:\Program Files\Docker\Docker
+
+to Windows  .\DockerCli.exe" -SwitchWindowsEngine
+
+to Linux    .\DockerCli.exe" -SwitchLinuxEngine
